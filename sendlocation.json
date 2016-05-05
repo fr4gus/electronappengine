@@ -1,0 +1,11 @@
+{
+    "eventName": "SF",
+    "url": "https://carbide-ward-130116.appspot.com/_ah/api/location/v1/add/{{fix}}",
+    "requestType": "GET",
+    "mydevices": true
+}
+
+
+
+
+  
